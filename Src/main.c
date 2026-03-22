@@ -1,5 +1,4 @@
 #include "main.h"
-#include "bsp_itm.h"
 
 
 uint32_t ledTskCnt = 0U;

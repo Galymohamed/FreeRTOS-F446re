@@ -7,8 +7,6 @@ extern "C" {
 
 
 #include "stm32f4xx_hal.h"
-#include "bsp_itm.h"
-
 #include "FreeRTOS.h"
 #include "task.h"
 
@@ -18,8 +16,6 @@ extern "C" {
 #include "uart.h"
 
 #include "uartCB.h"
-
-
 #include "brd_HWU.h"
 #include "bsp_uart2.h"
 
