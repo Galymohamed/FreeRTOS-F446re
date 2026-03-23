@@ -26,13 +26,6 @@ A structured CMake-based firmware template for the STM32F446RE (Nucleo-F446RE) r
 - arm-none-eabi-gcc toolchain
 - OpenOCD (for flashing)
 
-| Preset | Board | Build Type | Binary Dir |
-|---|---|---|---|
-| `f446-debug` | STM32F446RE | Debug (`-Og -g3`) | `build/f446/debug` |
-| `f446-release` | STM32F446RE | Release (`-Os -g0`) | `build/f446/release` |
-| `f446-relwithdebinfo` | STM32F446RE | RelWithDebInfo | `build/f446/relwithdebinfo` |
-
-
 ## Contact
 
 For any questions or inquiries: **contact@galytek.com**
