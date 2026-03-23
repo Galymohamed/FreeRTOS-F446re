@@ -1,4 +1,3 @@
-# STM32 CMake Project Template v3.0.0
 
 **Author:** Mohamed GALY
 **Supported boards:** STM32F446RE (Nucleo-F446RE)
