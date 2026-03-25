@@ -3,9 +3,6 @@
 
 uint32_t ledTskCnt = 0U;
 
-/*===========================================================================
- *  Task handles
- *===========================================================================*/
 static TaskHandle_t hTaskLed    = NULL;
 static TaskHandle_t hTaskReport = NULL;
 
