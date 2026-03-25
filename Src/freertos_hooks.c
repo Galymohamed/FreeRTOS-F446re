@@ -44,6 +44,4 @@ void vApplicationStackOverflowHook(TaskHandle_t xTask, char *pcTaskName)
 
 void vApplicationDaemonTaskStartupHook(void)
 {
-    /* Called once by the FreeRTOS timer/daemon task on first run.
-     * Place any one-time initialisation that must run in a task context here. */
 }
