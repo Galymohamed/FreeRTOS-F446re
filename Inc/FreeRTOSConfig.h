@@ -2,10 +2,6 @@
  * @file        FreeRTOSConfig.h
  * @author      Mohamed GALY
  * @brief       FreeRTOS kernel configuration for the STM32F446RE (Cortex-M4F @ 180 MHz).
- * @details     Tune the values below to match your application's timing, stack,
- *              and memory requirements.  Every macro that is commented out is left
- *              at its kernel default; un-comment only what you need to override.
- *
  * @target      STM32F446RE
  * @board       Nucleo-F446RE
  * @date        15-06-2026
